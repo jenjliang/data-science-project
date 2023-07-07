@@ -12,7 +12,7 @@ In this project, I used the Boston Airbnb data available on Kaggle to answer 3 q
 2. What area has the most pet-friendly properties?
 3. What variables correlate with price?
 
-The motivation behind this project is twofold. One, to familiarize myself with the CRISP-DM process of analyzing data. And two, to learn more about the Airbnb market in Boston, a rich and diverse city of which I have fond memories of from my college years.
+The motivation behind this project is twofold. One, to familiarize myself with the CRISP-DM process of analyzing data. And two, to learn more about the Airbnb market in Boston, a city containing a wealth of culture and history.
 
 ## Installation
 
@@ -27,7 +27,7 @@ All libraries are directly imported in the jupyter notebook and do not require s
 
 ## Results
 
-Answers to the questions explored can be found in the Medium post [here]().
+Answers to the questions explored can be found in the Medium post [here](https://medium.com/@jennifer.random/c366b7bd64e6).
 They are also presented in the `BostonAirbnbAnalysis.ipynb` file in comments and Markdown cells.
 
 ## Licensing, Authors, and Acknowledgements
